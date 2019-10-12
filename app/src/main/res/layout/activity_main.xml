@@ -93,6 +93,13 @@
             android:hint="Contraseña"
             android:inputType="textPassword" />
 
+        <TextView
+            android:id="@+id/txtOlvi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="¿Se te olvido la contraseña?"
+            android:textAlignment="center" />
+
         <Button
             android:id="@+id/entrar"
             android:layout_width="150dp"
